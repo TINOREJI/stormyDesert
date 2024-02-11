@@ -162,6 +162,7 @@ Seed               : 38
 ```
 ## Output After Rendering:
 ##### Output:
-   ![Uploading image.png…]()
+   ![image](https://github.com/TINOREJI/stormyDesert/assets/95184183/96e12c91-dae4-4d4e-9e9f-c678b7df8357)
+
 
  
